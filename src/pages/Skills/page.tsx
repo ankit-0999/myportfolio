@@ -13,7 +13,6 @@ import {
   Layers,
   GitBranch,
   Server,
-  Globe,
   FileCode,
   Figma,
   Github,
@@ -21,8 +20,7 @@ import {
   Hexagon ,
 } from "lucide-react";
 import { SiPycharm } from "react-icons/si";
-import { VscSnake } from "react-icons/vsc";
-import { FaDocker, FaLinux } from "react-icons/fa";
+import { FaDocker} from "react-icons/fa";
 import { RiNextjsLine } from "react-icons/ri";
 import {
   SiTypescript,
@@ -30,8 +28,6 @@ import {
   SiPostgresql,
   SiMongodb,
   SiGraphql,
-  SiJest,
-  SiWebpack,
   SiRedux,
   SiFirebase,
   SiVercel,
